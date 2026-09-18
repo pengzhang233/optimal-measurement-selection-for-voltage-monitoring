@@ -14,10 +14,10 @@ We first illustrate the geometry of the measurement values that certify voltage 
 The code in this repository is implemented in Python and can be run using Jupyter Notebook or Google Colab.
 
 ## Notes
-The numerical results reported in the paper were generated during the original submission, for which the random seed was not recorded. Therefore, rerunning the complete data-generation and full experimental pipeline may not reproduce the reported numerical values exactly. Thus, we categorize this repository into **paper_results** and **experiment_pipeline**. 
+The numerical results reported in the paper were generated during the original submission, for which the random seed was not recorded. Therefore, rerunning the complete data-generation and full experimental pipeline may not reproduce the reported numerical values exactly. Thus, we categorize this repository into **paper_results/** and **experiment_pipeline/**. 
 
-**paper_results:** contains the exact files of data and results to reproduce the published figures and tables.
+**paper_results/:** contains the exact files of data and results to reproduce the published figures and tables.
 
-**experiment_pipeline:** contains the full pipeline of the proposed framework, which has specified random seeds and solver settings, and produces qualitatively similar results.
+**experiment_pipeline/:** contains the full pipeline of the proposed framework, which has specified random seeds and solver settings, and produces qualitatively similar results.
 
 # Citing
