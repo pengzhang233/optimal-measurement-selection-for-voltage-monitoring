@@ -22,13 +22,11 @@ The numerical results reported in the paper were generated during the original s
 
 # Citing
 If you find this repository useful in your work, we kindly request that you cite the following publication:
+```bibtex
 @article{zhang2026optimal, 
-
   title={Optimal Measurement Selection for Certifiable Voltage Monitoring in Power Distribution Systems},
-  
   author={Zhang, Peng and Roald, Line and Singh, Manish K},
-  
   journal={arXiv preprint arXiv:2609.28785},
-  
   year={2026}
 }
+```
